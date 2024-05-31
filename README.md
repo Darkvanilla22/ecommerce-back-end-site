@@ -1,4 +1,4 @@
-# Social Network API (Made with MongoDB!)
+# Ecommerce Back End Site (Made with MySQL & Sequelize!)
 
 <img width="725" alt="image" src="https://github.com/Darkvanilla22/ecommerce-back-end-site/assets/53369798/5b868355-79e8-4259-a56a-d5ccc22b3025">
 
